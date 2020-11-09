@@ -33,12 +33,6 @@
          "id":10,
          "name":"exit_stairs",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
