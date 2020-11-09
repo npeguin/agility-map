@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.workadventu.re\/Floor0\/floor0.json#dam"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
